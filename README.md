@@ -6,6 +6,8 @@
 
 Simple lib to parse envs to structs in Go.
 
+Forked from [caarlos0/env](https://github.com/caarlos0/env) to make modifications around how nested structs, non-env fields, and zero-value handling works.
+
 ## Example
 
 A very basic example:
